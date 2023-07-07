@@ -1,4 +1,6 @@
-# Laboratórios de Informática I
+# Crossy Road
+
+## Grade: 19/20 :star:
 
 ## Repositório
 
