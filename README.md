@@ -2,6 +2,10 @@
 
 ## Grade: 19/20 :star:
 
+![Print do jogo](pictures/GameS1.png)
+
+Veja [pictures](pictures/README.md) para mais imagens.
+
 ## Interpretador
 
 Pode abrir o interpretador do Haskell (GHCi) utilizando o cabal ou diretamente.
