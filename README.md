@@ -4,7 +4,7 @@
 
 ![Print do jogo](pictures/GameS1.png)
 
-Veja [pictures](pictures/README.md) para mais imagens.
+Veja [pictures](pictures) para mais imagens.
 
 ## Interpretador
 
